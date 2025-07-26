@@ -1,0 +1,7 @@
+str=input("Enter a string:")
+splitting=input("on what point you want to split?")
+splitstr=str.split(splitting)
+joining=input("With what you want to join the strings")
+joiningstr=joining.join(splitstr)
+print(splitstr)
+print(joiningstr)
