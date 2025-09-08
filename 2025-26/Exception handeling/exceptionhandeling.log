@@ -1,0 +1,9 @@
+2025-09-08 18:15:46,680 INFO -------------New Run-------------
+2025-09-08 18:15:46,680 INFO Taking input of number and diviser in try block
+2025-09-08 18:15:55,382 INFO printing number/diviser
+2025-09-08 18:15:55,383 ERROR Zero division error got
+2025-09-08 18:15:55,383 INFO -------------Code Execution Completed-------------
+2025-09-08 18:16:15,680 INFO -------------New Run-------------
+2025-09-08 18:16:15,680 INFO Taking input of number and diviser in try block
+2025-09-08 18:16:19,787 ERROR Error Got: invalid literal for int() with base 10: '45w'
+2025-09-08 18:16:19,787 INFO -------------Code Execution Completed-------------
